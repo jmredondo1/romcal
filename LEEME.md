@@ -17,7 +17,7 @@ PARA VERLO EN LOCAL
 	npm install @romcal/calendar.spain@dev
 		
 	esto crea los directorios @romcal con los calendarios solicitados
-6.- Los package.json llevan los comandos y las actualizaciones
+6.- Los package.json llevan los comandos y las actualizaciones.
 7.- Con npm start, se inicia y se visualia en el puerto que indique	
 
 PARA VERLO EN UN SERVIDOR DE INTERNET
